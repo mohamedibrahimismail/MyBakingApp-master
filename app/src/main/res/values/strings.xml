@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Baking app</string>
+    <string name="empty_view_string">Go to the app pick a recipe to pin the ingredients as a widget</string>
+</resources>
